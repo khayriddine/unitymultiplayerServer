@@ -1,0 +1,15 @@
+{
+  "name": "unity_multiplayerserver",
+  "version": "1.0.0",
+  "description": "test for unity connection with io.socet",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^3.2.6",
+    "socket.io": "^2.1.1"
+  },
+  "author": "khayri",
+  "license": "ISC"
+}
